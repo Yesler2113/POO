@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\bin\Debug\net7.0\02-introduccionCSharp.exe
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\bin\Debug\net7.0\02-introduccionCSharp.deps.json
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\bin\Debug\net7.0\02-introduccionCSharp.runtimeconfig.json
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\bin\Debug\net7.0\02-introduccionCSharp.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\bin\Debug\net7.0\02-introduccionCSharp.pdb
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.AssemblyInfo.cs
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\refint\02-introduccionCSharp.dll
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.pdb
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\02-introduccionCSharp.genruntimeconfig.cache
+C:\Users\gonza\source\repos\POOPACII2023\Unidad I\02-introduccionCSharp\02-introduccionCSharp\02-introduccionCSharp\obj\Debug\net7.0\ref\02-introduccionCSharp.dll
